@@ -33,38 +33,6 @@ class Home extends StatelessWidget {
               child: const Text('Click Me'),
             ),
             const SizedBox(height: 20),
-            const Text(
-              'This is a simple home screen.',
-              style: TextStyle(fontSize: 16),
-            ),
-            const SizedBox(height: 20),
-            const Text(
-              'You can add more widgets here.',
-              style: TextStyle(fontSize: 16),
-            ),
-            const SizedBox(height: 20),
-            const Text(
-              'Enjoy building your app!',
-              style: TextStyle(fontSize: 16),
-            ),
-            const SizedBox(height: 20),
-            const Text(
-              'This is a simple home screen.',
-              style: TextStyle(fontSize: 16),
-            ),
-            const SizedBox(height: 20),
-            const Text(
-              'You can add more widgets here.',
-              style: TextStyle(fontSize: 16),
-            ),
-            const SizedBox(height: 20),
-
-            const Text(
-              'Enjoy building your app!',
-              style: TextStyle(fontSize: 16),
-            ),
-            const SizedBox(height: 20),
-
           ],
         ),
       ),
